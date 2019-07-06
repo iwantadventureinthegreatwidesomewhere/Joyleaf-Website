@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joyleaf",
-    "currentPage": "index.html",
+    "currentPage": "download.html",
     "theme": {
       "name": "serviceamp",
       "title": "ServiceAMP",
@@ -40,10 +40,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.5",
     "siteFonts": [],
-    "cleanCSS": false,
+    "cleanCSS": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "siteUrl": "",
+    "siteUrl": "https://po-trottier.github.io/joyleaf-website/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
@@ -51,13 +51,14 @@
     "сanonical-url": "",
     "uniqCompNum": 29,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Joyleaf | Home",
+        "title": "Joyleaf - The Stoner's Favorite App",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1166,7 +1167,7 @@
     },
     "download.html": {
       "settings": {
-        "title": "Joyleaf | Download",
+        "title": "Download Joyleaf - The Stoner's Favorite App",
         "order": 1,
         "meta_descr": ""
       },
