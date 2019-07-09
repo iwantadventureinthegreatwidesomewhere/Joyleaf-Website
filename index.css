@@ -440,8 +440,8 @@ amp-sidebar{
     opacity:.4;
     z-index:5000;
     font-size:32px;
-    height:60px;
-    width:60px;
+    height:50px;
+    width:50px;
     border:none;
     border-radius:3px;
     cursor:pointer
@@ -630,7 +630,7 @@ a.text-white:hover, a.text-white:focus{
     background:#0bc78b
 }
 .mobirise-spinner em:nth-child(2){
-    background:#212725
+    background:#1c1c1c
 }
 .mobirise-spinner em:nth-child(3){
     background:#90a49d
@@ -661,7 +661,7 @@ a.text-white:hover, a.text-white:focus{
     width:100%;
     min-height:60px;
     transition:all .3s;
-    background-color:#212725
+    background-color:#1c1c1c
 }
 .cid-rvslEOBmz8 .navbar .navbar-logo{
     margin-left:.8rem;
@@ -686,7 +686,7 @@ a.text-white:hover, a.text-white:focus{
         top:0;
         right:0;
         min-height:100vh;
-        background:#212725;
+        background:#1c1c1c;
         padding:1rem 2rem 1rem 2rem
     }
     .cid-rvslEOBmz8 .navbar .navbar-brand{
@@ -785,7 +785,7 @@ a.text-white:hover, a.text-white:focus{
     transition:all .2s
 }
 .cid-rvslEOBmz8 .navbar-dropdown{
-    padding:.5rem 1rem;
+    padding:.5rem 2rem;
     position:fixed
 }
 .cid-rvslEOBmz8 a.nav-link{
@@ -849,7 +849,7 @@ a.text-white:hover, a.text-white:focus{
 .cid-rvslEOBmz8 amp-sidebar{
     min-width:260px;
     z-index:1050;
-    background-color:#212725
+    background-color:#1c1c1c
 }
 .cid-rvslEOBmz8 amp-sidebar.open:after{
     content:'';
@@ -862,7 +862,7 @@ a.text-white:hover, a.text-white:focus{
 }
 .cid-rvslEOBmz8 .builder-sidebar{
     min-width:300px;
-    background-color:#212725;
+    background-color:#1c1c1c;
     position:relative;
     min-height:100vh;
     z-index:1030;
@@ -895,7 +895,7 @@ a.text-white:hover, a.text-white:focus{
     transform:rotate(-45deg)
 }
 .cid-rvslEOBmz8 amp-img{
-    width:45px;
+    width:37px;
     height:auto;
     display:flex;
     -webkit-align-items:center;
@@ -917,7 +917,7 @@ a.text-white:hover, a.text-white:focus{
     background-image:url("assets/images/texture.jpg")
 }
 .cid-rvslOstCaH .mbr-overlay{
-    background:#212725;
+    background:#1c1c1c;
     opacity:0.97
 }
 @media (max-width: 767px){
@@ -932,7 +932,8 @@ a.text-white:hover, a.text-white:focus{
 }
 .cid-rvslOstCaH .custom-header-img{
     height:85vh;
-    width:auto
+    width:auto;
+    margin-top:5vh
 }
 .cid-rvslOstCaH H1{
     color:#0bc78b
@@ -1097,7 +1098,7 @@ a.text-white:hover, a.text-white:focus{
 .cid-rvsvPvtvd9{
     padding-top:5rem;
     padding-bottom:2rem;
-    background-color:#212725
+    background-color:#1c1c1c
 }
 .cid-rvsvPvtvd9 a{
     color:#f1f1f7
@@ -1153,7 +1154,7 @@ a.text-white:hover, a.text-white:focus{
 .cid-rvsxxgWbtZ{
     padding-top:1rem;
     padding-bottom:2rem;
-    background-color:#212725
+    background-color:#1c1c1c
 }
 .cid-rvsxxgWbtZ .copyright .mbr-text{
     color:#bbbbbb
