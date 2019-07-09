@@ -947,12 +947,15 @@ a.text-white:hover, a.text-white:focus{
     display:table-cell;
     vertical-align:middle
 }
+.vertical-download{
+    display:none;
+}
 @media screen and (max-width: 991px){
-    .custom-header-img{
+    .custom-header-img, #badge{
         display:none;
     }
-    .download{
-        justify-content: center;
+    .vertical-download{
+        display:inherit;
     }
     .cid-rvslOstCaH .title-block{
         text-align:center
