@@ -785,7 +785,7 @@ a.text-white:hover, a.text-white:focus{
     transition:all .2s
 }
 .cid-rvslEOBmz8 .navbar-dropdown{
-    padding:.5rem 2rem;
+    padding:.5rem 1rem;
     position:fixed
 }
 .cid-rvslEOBmz8 a.nav-link{
@@ -931,7 +931,7 @@ a.text-white:hover, a.text-white:focus{
     color:#ffffff
 }
 .cid-rvslOstCaH .custom-header-img{
-    height:75vh;
+    height:80vh;
     width:auto;
     margin-top:5vh
 }
