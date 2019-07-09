@@ -951,7 +951,7 @@ a.text-white:hover, a.text-white:focus{
     .col-left{
         display:none
     }
-    #download-now{
+    .download{
         justify-content: center;
     }
     .cid-rvslOstCaH .title-block{
