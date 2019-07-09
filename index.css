@@ -948,8 +948,8 @@ a.text-white:hover, a.text-white:focus{
     vertical-align:middle
 }
 @media screen and (max-width: 991px){
-    .col-left{
-        display:none
+    .custom-header-img{
+        display:none;
     }
     .download{
         justify-content: center;
