@@ -722,7 +722,7 @@ a.text-white:hover, a.text-white:focus{
     padding-left:0
 }
 .cid-rvslEOBmz8 .navbar-nav .nav-item .nav-link{
-    margin:.667em 1em;
+    margin:.667em 2em;
     font-weight:normal
 }
 @media (max-width: 991px){
@@ -785,7 +785,7 @@ a.text-white:hover, a.text-white:focus{
     transition:all .2s
 }
 .cid-rvslEOBmz8 .navbar-dropdown{
-    padding:.5rem 2rem;
+    padding:.5rem 1rem;
     position:fixed
 }
 .cid-rvslEOBmz8 a.nav-link{
@@ -895,7 +895,7 @@ a.text-white:hover, a.text-white:focus{
     transform:rotate(-45deg)
 }
 .cid-rvslEOBmz8 amp-img{
-    width:37px;
+    width:33px;
     height:auto;
     display:flex;
     -webkit-align-items:center;
@@ -931,7 +931,7 @@ a.text-white:hover, a.text-white:focus{
     color:#ffffff
 }
 .cid-rvslOstCaH .custom-header-img{
-    height:85vh;
+    height:80vh;
     width:auto;
     margin-top:5vh
 }
