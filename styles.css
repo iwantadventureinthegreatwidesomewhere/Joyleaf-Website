@@ -268,26 +268,6 @@ html:not(.is-builder) amp-img > a{
     margin-right:auto;
     margin-left:auto
 }
-@media (max-width: 767px){
-    .container{
-        max-width:540px
-    }
-}
-@media (min-width: 768px){
-    .container{
-        max-width:720px
-    }
-}
-@media (min-width: 992px){
-    .container{
-        max-width:960px
-    }
-}
-@media (min-width: 1200px){
-    .container{
-        max-width:1140px
-    }
-}
 .mbr-flex{
     display:flex
 }
@@ -516,7 +496,7 @@ body{
 }
 .display-1{
     font-family:'Muli',sans-serif;
-    font-size:3.6rem;
+    font-size:3.5rem;
     line-height:1.2;
     letter-spacing:1px;
     font-weight:800
@@ -723,7 +703,7 @@ a.text-white:hover, a.text-white:focus{
 }
 .cid-rvslEOBmz8 .navbar-nav .nav-item .nav-link{
     margin:.667em 2em;
-    font-weight:normal
+    font-weight:700
 }
 @media (max-width: 991px){
     .cid-rvslEOBmz8 ul.navbar-nav{
@@ -913,12 +893,8 @@ a.text-white:hover, a.text-white:focus{
     color:#7567f8;
     font-size:1.5rem
 }
-.cid-rvslOstCaH{
-    background-image:url("assets/images/texture.jpg")
-}
 .cid-rvslOstCaH .mbr-overlay{
     background:#1c1c1c;
-    opacity:0.97
 }
 @media (max-width: 767px){
     .cid-rvslOstCaH .title-block{
@@ -931,7 +907,7 @@ a.text-white:hover, a.text-white:focus{
     color:#ffffff
 }
 .cid-rvslOstCaH .custom-header-img{
-    height:80vh;
+    height:75vh;
     width:auto;
     margin-top:5vh
 }
@@ -1022,10 +998,6 @@ a.text-white:hover, a.text-white:focus{
     padding-bottom:5rem;
     background-image:url("assets/images/cubes.png")
 }
-.cid-rvsFViHPD7 .mbr-overlay{
-    background-color:#0bc78b;
-    opacity:0.9
-}
 .cid-rvsFViHPD7 .line .line-line-color{
     border-bottom-color:#ffffff
 }
@@ -1044,7 +1016,9 @@ a.text-white:hover, a.text-white:focus{
 .cid-rvslZ7ZqGC{
     padding-top:5rem;
     padding-bottom:5rem;
-    background-color:#ffffff
+}
+.cid-rvslZ7ZqGC .mbr-overlay{
+    background-color:#0bc78b;
 }
 @media (max-width: 991px){
     .cid-rvslZ7ZqGC .card-wrapper{
@@ -1060,14 +1034,20 @@ a.text-white:hover, a.text-white:focus{
     height:2.5rem
 }
 .cid-rvslZ7ZqGC .card-img .iconfont-wrapper .amp-iconfont{
-    color:#0bc78b;
+    color:#ffffff;
     -webkit-transition:color 0.2s;
     -o-transition:color 0.2s;
     transition:color 0.2s;
     font-size:2.5rem
 }
 .cid-rvslZ7ZqGC .line .line-line-color{
-    border-bottom-color:#0bc78b
+    border-bottom-color:#ffffff
+}
+.cid-rvslZ7ZqGC H3{
+    color:#ffffff
+}
+.cid-rvslZ7ZqGC H5{
+    color:#f1f1f7
 }
 .cid-rvsmnnTHZY{
     padding-top:0rem;
