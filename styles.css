@@ -503,7 +503,12 @@ body{
 }
 .display-2{
     font-family:'Muli',sans-serif;
-    font-size:2.45rem;
+    font-size:2.75rem;
+    line-height:1.2
+}
+.display-3{
+    font-family:'Muli',sans-serif;
+    font-size:1.5rem;
     line-height:1.2
 }
 .display-4{
@@ -513,7 +518,7 @@ body{
 }
 .display-5{
     font-family:'Muli',sans-serif;
-    font-size:2rem;
+    font-size:2.25rem;
     line-height:1.2
 }
 .display-7{
@@ -907,7 +912,7 @@ a.text-white:hover, a.text-white:focus{
     color:#ffffff
 }
 .cid-rvslOstCaH .custom-header-img{
-    height:75vh;
+    height:80vh;
     width:auto;
     margin-top:5vh
 }
@@ -943,9 +948,45 @@ a.text-white:hover, a.text-white:focus{
     }
 }
 .cid-rvslRdlL72{
-    padding-top:7rem;
-    padding-bottom:7rem;
+    padding-top:3rem;
+    padding-bottom:3rem;
     background-color:#ffffff
+}
+
+.cid-rvslRdlL72 .custom-header-img{
+    height:500px;
+    width:auto;
+}
+.cid-rvslRdlL72 H1{
+    color:#0bc78b
+}
+.cid-rvslRdlL72 H2{
+    color:#f1f1f7
+}
+.cid-rvslRdlL72 .row{
+    display:table-row
+}
+.cid-rvslRdlL72 .col-left, .cid-rvslRdlL72 .col-right{
+    display:table-cell;
+    vertical-align:middle
+}
+.vertical-download{
+    display:none;
+}
+@media screen and (max-width: 991px){
+    .custom-header-img, #badge{
+        display:none;
+    }
+    .vertical-download{
+        display:inherit;
+    }
+    .cid-rvslOstCaH .title-block{
+        text-align:center
+    }
+    .cid-rvslOstCaH .mbr-section-btn{
+        display:flex;
+        justify-content:center
+    }
 }
 .cid-rvslRdlL72 .item-wrapper{
     background-color:transparent
