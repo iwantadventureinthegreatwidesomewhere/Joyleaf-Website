@@ -278,12 +278,6 @@ html:not(.is-builder) amp-img > a{
     margin-right:auto;
     margin-left:auto
 }
-@media (max-width: 991px){
-    .container{
-        padding-right:3rem;
-        padding-left:3rem;
-    }
-}
 .mbr-flex{
     display:flex
 }
@@ -544,13 +538,12 @@ body{
 }
 @media (max-width: 768px){
     .display-1{
-        font-size:2.88rem;
-        font-size:calc( 1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
+        font-size:2.5rem;
+        font-size:calc( 2.5rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20)));
         line-height:calc( 1.4 * (1.91rem + (3.6 - 1.91) * ((100vw - 20rem) / (48 - 20))))
     }
     .display-2{
         font-size:1.96rem;
-        font-size:calc( 1.5075rem + (2.45 - 1.5075) * ((100vw - 20rem) / (48 - 20)));
         line-height:calc( 1.4 * (1.5075rem + (2.45 - 1.5075) * ((100vw - 20rem) / (48 - 20))))
     }
     .display-4{
