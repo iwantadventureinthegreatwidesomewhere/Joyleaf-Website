@@ -278,6 +278,12 @@ html:not(.is-builder) amp-img > a{
     margin-right:auto;
     margin-left:auto
 }
+@media (max-width: 991px){
+    .container{
+        padding-right:3rem;
+        padding-left:3rem;
+    }
+}
 .mbr-flex{
     display:flex
 }
@@ -658,6 +664,11 @@ a.text-white:hover, a.text-white:focus{
     transition:all .3s;
     background-color:#1c1c1c
 }
+@media (max-width: 991px){
+    .cid-rvslEOBmz8 .navbar{
+        display: none
+    }
+}
 .cid-rvslEOBmz8 .navbar .navbar-logo{
     margin-left:.8rem;
     margin-right:.8rem
@@ -672,23 +683,6 @@ a.text-white:hover, a.text-white:focus{
     flex-basis:100%;
     -webkit-align-items:center;
     align-items:center
-}
-@media (max-width: 991px){
-    .cid-rvslEOBmz8 .navbar .navbar-collapse{
-        display:none;
-        width:100%;
-        position:absolute;
-        top:0;
-        right:0;
-        min-height:100vh;
-        background:#1c1c1c;
-        padding:1rem 2rem 1rem 2rem
-    }
-    .cid-rvslEOBmz8 .navbar .navbar-brand{
-        -ms-flex-negative:initial;
-        flex-shrink:initial;
-        word-break:break-word
-    }
 }
 .cid-rvslEOBmz8 .navbar-brand{
     display:flex;
