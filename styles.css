@@ -908,6 +908,17 @@ a.text-white:hover, a.text-white:focus{
     font-size:1.5rem;
     color:#ffffff
 }
+.cid-rvslOstCaH .header-logo-img{
+    display: none;
+}
+@media (max-width: 991px){
+    .cid-rvslOstCaH .header-logo-img{
+        display: block;
+        width: 3.5vh;
+        height: auto;
+        margin-bottom: 20px;
+    }
+}
 .cid-rvslOstCaH .custom-header-img{
     height:80vh;
     width:auto;
