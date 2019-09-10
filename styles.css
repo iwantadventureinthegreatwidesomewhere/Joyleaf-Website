@@ -914,9 +914,10 @@ a.text-white:hover, a.text-white:focus{
 @media (max-width: 991px){
     .cid-rvslOstCaH .header-logo-img{
         display: block;
-        width: 3.5vh;
+        width: 3vh;
         height: auto;
-        margin-bottom: 20px;
+        margin-right: 0.5rem;
+        margin-bottom: 30px;
     }
 }
 .cid-rvslOstCaH .custom-header-img{
